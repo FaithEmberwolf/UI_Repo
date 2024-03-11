@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/AC_InventorySystem.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/F_DisplayStruct.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/F_FactStruct.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/DT_FactData.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/I_InteractionInterface.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/Items/TestItem.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/AC_ItemData.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/AN/0I3HW08CBCJ1167KBRRZ40.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/Items/TestItem1.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/Widgets/WBP_FactSlot.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/Widgets/WBP_FactGrid.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/Widgets/WBP_PlayerMenu.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Input/Actions/IA_OpenInventory.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/Widgets/WBP_HUD.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/YR/L59PMY27SBGPPODEEI9G5V.uasset",
+				"C:/Users/Roxee/OneDrive/Documents/Unreal Projects/MyProject/Content/InventorySystem/download.uasset"
+			]
+		}
+	]
+}
